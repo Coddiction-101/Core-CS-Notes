@@ -97,7 +97,7 @@
 #### Section 2: TCP/IP Model + OSI vs TCP/IP Comparison
 #### Section 3: IP Addressing & Subnetting (25% — the biggest practical section)
 #### Section 4: TCP & UDP + Port Numbers (20%)
-### Section 5: DNS, DHCP, ARP (10%)
+#### Section 5: DNS, DHCP, ARP (10%)
 ### Section 6: HTTP, HTTPS, FTP, SSH, Email (10%)
 ### Section 7: Routing & Switching + VLANs (15%)
 ### Section 8: Network Security (10%)
