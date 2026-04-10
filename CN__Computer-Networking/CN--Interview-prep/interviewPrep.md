@@ -48,6 +48,7 @@
 ❌ BGP deep internals — AS path attributes, communities (unless ISP/network role)
 
 ❌ OSPF LSA types in detail (only concept level needed)
+
 ❌ ATM and Frame Relay (legacy protocols — extinct)
 ❌ Layer 6 Presentation Layer in depth (only asked conceptually)
 ❌ Detailed hardware specs of cables (Cat6 max speed is enough — no one asks pinout)
