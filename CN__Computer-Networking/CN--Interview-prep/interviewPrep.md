@@ -2,7 +2,7 @@
 ### Only What Gets Asked | 2026 Edition | Job Ready
 
 > **File:** `02_CN_Interview_Prep.md`
-> **Part of:** Computer Networks Repository → [Back to README](./README.md)
+> **Part of:** Computer Networks Repository → [Back to README](https://github.com/Coddiction-101/Core-CS-Notes/tree/main/CN__Computer-Networking)
 > **Previous:** [01_CN_Masterguide.md](./01_CN_Masterguide.md) | **Next:** [03_CN_Practice_Repository.md](./03_CN_Practice_Repository.md)
 
 ---
