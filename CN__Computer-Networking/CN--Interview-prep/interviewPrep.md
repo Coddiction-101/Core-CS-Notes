@@ -58,6 +58,7 @@
 ❌ IPv6 migration strategies in depth (only basics needed)
 
 ❌ STP port states and timers in detail (only concept needed)
+
 ❌ SNMP MIB structure in detail (concept only)
 
 ### 2. What to MASTER (Asked 80%+ times):
