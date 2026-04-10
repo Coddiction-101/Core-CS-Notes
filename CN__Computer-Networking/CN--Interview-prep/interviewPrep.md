@@ -22,6 +22,7 @@
 ✅ **Application Protocols (10%)** — DNS, DHCP, HTTP, ARP, SSH — how they work
 
 ✅ **Routing & Switching (15%)** — How packets find their way, VLANs
+
 ✅ **Network Security (10%)** — Attacks, firewalls, TLS, VPN
 ✅ **50 Most Asked Questions** — With detailed, speakable answers
 ✅ **Real-World Scenarios** — "What happens when you type google.com?"
