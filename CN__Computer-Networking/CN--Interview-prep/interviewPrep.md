@@ -40,7 +40,9 @@
 ## 🔥 Key Features:
 
 ### 1. What to Skip (Save Time!):
+
 ❌ Manchester encoding and NRZ signal details (never asked)
+
 ❌ Token Ring and FDDI (completely obsolete — dead tech)
 ❌ BGP deep internals — AS path attributes, communities (unless ISP/network role)
 ❌ OSPF LSA types in detail (only concept level needed)
