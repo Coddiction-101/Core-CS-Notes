@@ -62,6 +62,7 @@
 ❌ SNMP MIB structure in detail (concept only)
 
 ### 2. What to MASTER (Asked 80%+ times):
+
 ⭐⭐⭐⭐⭐ **OSI Model — All 7 Layers** (Asked in 95% of networking interviews!)
 ⭐⭐⭐⭐⭐ **TCP vs UDP** (Must know cold — asked in every single interview!)
 ⭐⭐⭐⭐⭐ **TCP Three-Way Handshake** (Draw it from memory every time!)
