@@ -111,7 +111,6 @@
 #### Section 13: Readiness Checklist + Last-Day Rapid Review
 
 ---
----
 
 # Section 1: OSI Model 🧱
 
