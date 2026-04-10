@@ -30,6 +30,7 @@
 ✅ **Real-World Scenarios** — "What happens when you type google.com?"
 
 ✅ **Commands Cheat Sheet** — Every networking command you need
+
 ✅ **2-Week Study Plan** — Day-by-day with daily goals
 ✅ **Readiness Checklist** — Know exactly when you're interview-ready
 
