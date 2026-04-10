@@ -44,6 +44,7 @@
 ❌ Manchester encoding and NRZ signal details (never asked)
 
 ❌ Token Ring and FDDI (completely obsolete — dead tech)
+
 ❌ BGP deep internals — AS path attributes, communities (unless ISP/network role)
 ❌ OSPF LSA types in detail (only concept level needed)
 ❌ ATM and Frame Relay (legacy protocols — extinct)
