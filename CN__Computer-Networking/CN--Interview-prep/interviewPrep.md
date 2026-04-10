@@ -103,7 +103,7 @@
 #### Section 8: Network Security (10%)
 #### Section 9: 50 Most Asked Interview Questions
 #### Section 10: Real-World Scenarios
-### Section 11: Commands Cheat Sheet
+#### Section 11: Commands Cheat Sheet
 ### Section 12: 2-Week Study Plan
 ### Section 13: Readiness Checklist + Last-Day Rapid Review
 
