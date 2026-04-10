@@ -82,6 +82,7 @@
 ⭐⭐⭐⭐ **HTTP vs HTTPS + Status Codes** (Asked in dev + networking roles both)
 
 ⭐⭐⭐⭐ **DHCP DORA Process** (Draw it, explain it)
+
 ⭐⭐⭐⭐ **NAT and Private IP Ranges** (Must memorize ranges)
 ⭐⭐⭐ **Firewalls, VPN, TLS** (Security basics)
 ⭐⭐⭐ **VLANs** (Enterprise networking + dev-ops roles)
