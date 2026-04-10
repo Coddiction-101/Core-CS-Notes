@@ -18,6 +18,7 @@
 ✅ **IP Addressing & Subnetting (25%)** — The #1 practical skill tested in writing
 
 ✅ **Core Protocols — TCP & UDP (20%)** — Handshake, ports, differences
+
 ✅ **Application Protocols (10%)** — DNS, DHCP, HTTP, ARP, SSH — how they work
 ✅ **Routing & Switching (15%)** — How packets find their way, VLANs
 ✅ **Network Security (10%)** — Attacks, firewalls, TLS, VPN
