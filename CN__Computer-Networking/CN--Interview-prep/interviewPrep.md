@@ -67,6 +67,7 @@
 
 ⭐⭐⭐⭐⭐ **TCP vs UDP** (Must know cold — asked in every single interview!)
 ⭐⭐⭐⭐⭐ **TCP Three-Way Handshake** (Draw it from memory every time!)
+
 ⭐⭐⭐⭐⭐ **What happens when you type a URL** (Most common scenario question!)
 ⭐⭐⭐⭐⭐ **IP Addressing + Subnetting** (Written test — tested in 80% of companies!)
 ⭐⭐⭐⭐⭐ **Switch vs Router vs Hub** (Asked everywhere — must explain with analogy!)
