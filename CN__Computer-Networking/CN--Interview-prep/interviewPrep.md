@@ -24,6 +24,7 @@
 ✅ **Routing & Switching (15%)** — How packets find their way, VLANs
 
 ✅ **Network Security (10%)** — Attacks, firewalls, TLS, VPN
+
 ✅ **50 Most Asked Questions** — With detailed, speakable answers
 ✅ **Real-World Scenarios** — "What happens when you type google.com?"
 ✅ **Commands Cheat Sheet** — Every networking command you need
