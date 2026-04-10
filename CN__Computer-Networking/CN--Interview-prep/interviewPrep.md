@@ -1,9 +1,12 @@
 # 🎯 02 — Computer Networks Interview & Internship Prep
 ### Only What Gets Asked | 2026 Edition | Job Ready
 
-> **File:** `02_CN_Interview_Prep.md`
+> **File:** `interviewPrep.md`
 > **Part of:** Computer Networks Repository → [Back to README](https://github.com/Coddiction-101/Core-CS-Notes/tree/main/CN__Computer-Networking)
-> **Previous:** [01_CN_Masterguide.md](https://github.com/Coddiction-101/Core-CS-Notes/tree/main/CN__Computer-Networking/CN--Masterguide) | **Next:** [03_CN_Practice_Repository.md](./03_CN_Practice_Repository.md)
+> 
+> **Previous:** [01_CN_Masterguide.md](https://github.com/Coddiction-101/Core-CS-Notes/tree/main/CN__Computer-Networking/CN--Masterguide) 
+> 
+> **Next:** [03_CN_Practice_Repository.md](./03_CN_Practice_Repository.md)
 
 ---
 
