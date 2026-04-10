@@ -56,6 +56,7 @@
 ❌ Detailed hardware specs of cables (Cat6 max speed is enough — no one asks pinout)
 
 ❌ IPv6 migration strategies in depth (only basics needed)
+
 ❌ STP port states and timers in detail (only concept needed)
 ❌ SNMP MIB structure in detail (concept only)
 
