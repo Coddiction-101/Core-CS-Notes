@@ -26,6 +26,7 @@
 ✅ **Network Security (10%)** — Attacks, firewalls, TLS, VPN
 
 ✅ **50 Most Asked Questions** — With detailed, speakable answers
+
 ✅ **Real-World Scenarios** — "What happens when you type google.com?"
 ✅ **Commands Cheat Sheet** — Every networking command you need
 ✅ **2-Week Study Plan** — Day-by-day with daily goals
