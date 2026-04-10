@@ -72,6 +72,7 @@
 ⭐⭐⭐⭐⭐ **What happens when you type a URL** (Most common scenario question!)
 
 ⭐⭐⭐⭐⭐ **IP Addressing + Subnetting** (Written test — tested in 80% of companies!)
+
 ⭐⭐⭐⭐⭐ **Switch vs Router vs Hub** (Asked everywhere — must explain with analogy!)
 ⭐⭐⭐⭐ **DNS Resolution** (End-to-end — resolver to authoritative)
 ⭐⭐⭐⭐ **HTTP vs HTTPS + Status Codes** (Asked in dev + networking roles both)
